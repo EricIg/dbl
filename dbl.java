@@ -1,11 +1,6 @@
-// Eric Cru
-// 10.19.2020
-// Program 6 Strings
-// Exercise #5
-
 import java.util.Scanner;
 
-public class Program6Strings {
+public class dbl {
   
     public static void main(String [] args) {
     
